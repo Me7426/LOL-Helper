@@ -2,9 +2,9 @@
  * @see https://www.electron.build/configuration/configuration
  */
 {
-  appId: "YourAppID",
+  appId: "com.watchingfun.joii",
   asar: true,
-  productName: "Joi",
+  productName: "Joii",
   copyright: "Copyright © 2023 ${author}",
   directories: {
     output: "release/${version}"
